@@ -30,5 +30,5 @@ GRANT ALL PRIVILEGES ON database_name.* to user_name;
 FLUSH PRIVILEGES;
 ```
 
--Exit
+- Exit
 
