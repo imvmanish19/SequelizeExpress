@@ -1,6 +1,6 @@
 ## Express With Sequelize
 
-# SQL
+### SQL
 
 Using root user in mysql is not a good practice,its easy to delete all the databases present in root.
 So its better to create a new database and a new user.
